@@ -1,6 +1,13 @@
 {
   "name": "corruptedcake",
   "displayName": "corruptedcake",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zackysh/vscode-theme-corrupted-cake.git",
+    "directory": ""
+  },
+  "publisher": "Zackysh",
   "author": {
     "name": "AdriGB.Zackysh",
     "url": "https://github.com/Zackysh"
