@@ -1,0 +1,26 @@
+{
+  "name": "corruptedcake",
+  "displayName": "corruptedcake",
+  "author": {
+    "name": "AdriGB.Zackysh",
+    "url": "https://github.com/Zackysh"
+  },
+  "description": "A dark theme, inspired by: carbon, blood, void, cake, pastel and other themes like catpuccin and celestial",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "CorruptedCake",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Corrupted-Cake-color-theme.json"
+      }
+    ]
+  }
+}
