@@ -13,7 +13,7 @@
     "url": "https://github.com/Zackysh"
   },
   "description": "A dark theme, inspired by: carbon, blood, void, cake, pastel and other themes like catpuccin and celestial",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.85.0"
