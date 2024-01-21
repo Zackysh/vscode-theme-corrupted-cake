@@ -4,4 +4,4 @@ A dark theme, inspired by: carbon, blood, void, cake, pastel and other themes li
 
 ![Alt text](screenshot.png)
 
-In future versions Java, C#, C++, JS and TS highlighting will be tweaked.
+In future versions Java, C#, C++, JS, TS and Python highlighting will be tweaked.
